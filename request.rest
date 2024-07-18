@@ -19,8 +19,7 @@ Content-Type: application/json
 
 {
     "email": "iqbal@gmail.com",
-    "password" : "123456"
+    "password" : "12345"
 }
 
-####
-POST http://127.0.0.1/register
+

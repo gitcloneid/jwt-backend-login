@@ -1,0 +1,6 @@
+framework : express
+database : Sequlieze
+enkripsi : bcrypt
+cors : menghubungkan server side dengan client
+dotenv : untuk memuat variabel di .env
+jsonwebtoken : 
