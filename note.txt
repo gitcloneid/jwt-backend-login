@@ -3,4 +3,6 @@ database : Sequlieze
 enkripsi : bcrypt
 cors : menghubungkan server side dengan client
 dotenv : untuk memuat variabel di .env
-jsonwebtoken : 
+jsonwebtoken : autentikasi
+cookie-parser : mengekstrak data https dari user agar bisa dibaca di backend
+sequilize : mempermudah membuat skema
